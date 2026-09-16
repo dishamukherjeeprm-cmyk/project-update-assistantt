@@ -1,0 +1,11 @@
+Project: Northstar client portal
+Owner: Delivery team
+Status: In discovery
+
+Release plan
+- Target launch: 14 June 2026
+- The first release includes account setup, project overview, and weekly status exports.
+
+Reporting
+- Weekly status exports are delivered as CSV to the client operations contact.
+- The portal should not send messages automatically.

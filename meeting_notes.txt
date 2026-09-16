@@ -1,0 +1,11 @@
+Northstar discovery workshop — 28 May 2026
+
+The client said the launch window may need to move to 5 July 2026 because legal review
+is taking longer than expected. Priya said she will confirm the date after the legal
+review on 3 June. This is not a final approval yet.
+
+The client asked whether weekly status exports could also be available as PDF. The
+team agreed to investigate, but no format decision was made.
+
+The client confirmed that the portal must not send messages automatically. The client
+also asked who will own the operations handover.
